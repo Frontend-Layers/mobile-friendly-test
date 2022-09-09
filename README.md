@@ -12,6 +12,9 @@ _Node.js library for testing HTML files on the fly and output errors in the cons
 
 Before start you need to generate Google API key and add Google Search Console API into your Google APIs dashboard.
 
+https://developers.google.com/webmaster-tools/search-console-api/v1/configure
+
+
 ### npm
 
 ```shell
