@@ -1,6 +1,6 @@
 {
   "name": "mobile-friendly-test-npm",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Node.js library for Google Mobile Friendly Test with Console output and Gulp.js compatibility",
   "main": "index.js",
   "scripts": {
