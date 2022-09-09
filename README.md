@@ -18,13 +18,13 @@ https://developers.google.com/webmaster-tools/search-console-api/v1/configure
 ### npm
 
 ```shell
-npm i mobile-friendly-test
+npm i mobile-friendly-test-npm
 ```
 
 ### yarn
 
 ```shell
-yarn add mobile-friendly-test
+yarn add mobile-friendly-test-npm
 ```
 
 ## How to use
