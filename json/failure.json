@@ -1,0 +1,17 @@
+{
+    "testStatus": {
+        "status": "COMPLETE"
+    },
+    "mobileFriendliness": "NOT_MOBILE_FRIENDLY",
+    "mobileFriendlyIssues": [
+        {
+            "rule": "CONFIGURE_VIEWPORT"
+        },
+        {
+            "rule": "USE_LEGIBLE_FONT_SIZES"
+        },
+        {
+            "rule": "TAP_TARGETS_TOO_CLOSE"
+        }
+    ]
+}
