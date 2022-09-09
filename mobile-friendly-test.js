@@ -16,7 +16,7 @@ const mobileFriendlyTest = async (url, apiKey) => {
       }
     );
 
-    console.log(response.data.testStatus.status === 'MOBILE_FRIENDLY' ? '\nMobile Friendly Test: Mobile Friendly' : '\nMobile Friendly Test: Not Mobile Friendly');
+    console.log(response.data.mobileFriendliness === 'MOBILE_FRIENDLY' ? '\nMobile Friendly Test: Mobile Friendly' : '\nMobile Friendly Test: Not Mobile Friendly');
 
     const issues = response.data.mobileFriendlyIssues
     if (issues) {

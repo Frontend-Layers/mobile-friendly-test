@@ -8,7 +8,8 @@ const port = 3000
 import mobileFriendlyTest from './index.js'
 
 const apiKey = ''
-const url = 'https://www.spacejam.com/1996/'
+const url = '';
+
 
 mobileFriendlyTest(url, apiKey)
 
