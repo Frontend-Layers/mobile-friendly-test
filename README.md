@@ -60,7 +60,5 @@ export default
 - [Search Console Testing Tools API](https://developers.google.com/webmaster-tools/search-console-api/reference/rest/v1/urlTestingTools.mobileFriendlyTest)
 - [Your Google API list](https://console.cloud.google.com/apis/dashboard)
 
-
-
 ---
 [MIT License](LICENSE)
